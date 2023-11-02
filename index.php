@@ -1,0 +1,2 @@
+//init
+<?php echo 'test'; ?>
